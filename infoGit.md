@@ -38,15 +38,13 @@
 
 >   **git checkout -b <название ветки>** - создание ветки и переход к ней
 
->   **git branch <название ветки>**
-
 >   **git branch -d <название ветки>** – удалить ветку (git branch -d master)
 
 >   **git checkout <название ветки>** 
 
 >   **git log --oneline**
 
->   **git commit -am “message”**
+>   **git commit -am “message”** - добавление файлов в отслеживание и создание коммита.
 
 >   **git log --graph** 
 
