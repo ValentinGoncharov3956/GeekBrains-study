@@ -42,10 +42,10 @@
 
 >   **git checkout <название ветки>** 
 
->   **git log --oneline**
+>   **git log --oneline** - коротенький журнал
 
 >   **git commit -am “message”**
 
->   **git log --graph** 
+>   **git log --graph** - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
 
 >   **git merge --abort**
