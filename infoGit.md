@@ -34,4 +34,6 @@
 
 ## Основные команды Git 2-го семинара
 
-git branch **<master>** – создать новую ветку c именем master
+>   git branch **<master>** – создать новую ветку c именем master
+
+>   **git branch -d <название ветки> – удалить ветку (git branch -d master)**
