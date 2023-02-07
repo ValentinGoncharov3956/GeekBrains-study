@@ -50,4 +50,4 @@
 
 >   **git log --graph** 
 
->   **git merge --abort**
+>   **git merge --abort** - отменить слияние, которое прошло с конфликтом
