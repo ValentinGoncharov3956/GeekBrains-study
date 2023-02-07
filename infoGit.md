@@ -40,7 +40,7 @@
 
 >   **git branch -d <название ветки>** – удалить ветку (git branch -d master)
 
->   **git checkout <название ветки>** 
+>   **git checkout <название ветки>** - переход к другой ветке
 
 >   **git log --oneline** - коротенький журнал
 
