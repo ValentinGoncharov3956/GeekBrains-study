@@ -34,4 +34,4 @@
 
 ## Основные команды Git 2-го семинара
 
-git branch **<branch _name>** – создать новую ветку c именем branch_name
+git branch **<master>** – создать новую ветку c именем master
