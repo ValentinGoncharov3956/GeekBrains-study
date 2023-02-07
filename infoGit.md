@@ -37,6 +37,5 @@
 >   **git branch** *"master"* – создать новую ветку c именем master
 
 >   **git checkout** -b <название ветки> - создание ветки и переход к ней
->   git branch **<master>** – создать новую ветку c именем master
 
 >   **git branch** -d <название ветки> – удалить ветку (git branch -d master)
